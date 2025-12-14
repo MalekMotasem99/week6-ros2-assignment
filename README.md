@@ -1,6 +1,7 @@
 # Week 6 ROS2 Assignment
 
 Name : Malek Humoudeh
+
 Course : ROS2
 
 The assignment covers all required topics related to parameters and node configuration in ROS2, including practical execution and validation.
