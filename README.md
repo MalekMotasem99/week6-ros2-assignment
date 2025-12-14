@@ -1,12 +1,13 @@
 # Week 6 ROS2 Assignment
 
-This repository contains the complete implementation of **ROS2 Week 6 Assignment**.
+Name : Malek Humoudeh
+Course : ROS2
 
 The assignment covers all required topics related to parameters and node configuration in ROS2, including practical execution and validation.
 
 ---
 
-## ✅ Implemented Features
+## Implemented Features
 
 - **ROS2 Parameters**
   - Declaring parameters using `declare_parameter`
@@ -29,7 +30,7 @@ The assignment covers all required topics related to parameters and node configu
 
 ---
 
-## 🎥 Assignment Video
+##  Assignment Video
 
 You can watch the full assignment explanation video here:
 
